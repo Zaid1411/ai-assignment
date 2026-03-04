@@ -144,9 +144,6 @@ The system can be extended to support additional AI modules. Below is the archit
 ### Module 2 – AI B2B Proposal Generator
 This module would generate sustainable product proposals for businesses. The API would accept inputs such as business type, budget, and sustainability preferences. The system would analyze the request and return a structured proposal including recommended products, estimated costs, and sustainability benefits.
 
-### Module 3 – AI Impact Reporting Generator
-This module would calculate environmental impact metrics based on product data. It would estimate values such as carbon reduction, plastic saved, and recycling benefits. The output would be returned in structured JSON format for reporting and analytics.
-
 ### Module 4 – AI WhatsApp Support Bot
 This module would integrate with a messaging platform like WhatsApp to handle customer support queries. The system would process user questions and generate AI-powered responses related to order tracking, product information, and return policies.
 
